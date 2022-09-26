@@ -1,0 +1,22 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx6e7034e73e0d1fd9",
+# 公众号appSecret
+"app_secret": "f263f1d72458636117bc7a8e940a9db3",
+# 模板消息id
+"template_id":"f1xo1G85_-kqGF38LCLkpLBbYrXqf_7PkJ019HQd9_s",
+# 接收公众号消息的微信号id，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o1fME57rtPcsgvbmkltWD66yFqKk","o1fME53Y5VWtxlgpW1VY78dPcvPQ"],
+
+# 信息配置
+# 所在省份
+"province": "广东",
+# 所在城市
+"city": "潮州",
+# 生日1，修改name为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "狗铭的宝贝狗诗", "birthday": "r2002-02-15"},
+# 在一起的日子，格式同上
+"love_date": "2022-03-20",
+"love1_date": "2022-10-01"
+}
